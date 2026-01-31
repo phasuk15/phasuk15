@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I’m Sye 
 
-<!--
-**phasuk15/phasuk15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏻‍💻 Software Engineering Graduate  
+📊 Data Analytics & Computer Vision Enthusiast  
+🎓 Lancaster University — Bsc Software Engineering Hons
+✍️ University of Warwick — Msc Computer Science  
+🖥️  Portfolio: https://syephasuk.dev  
+✉️  Linkedin: https://www.linkedin.com/in/sye-phasuk-8aba09258/
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+### Languages & Frameworks
+Python | Java | JavaScript | TypeScript | C  
+React | Next.js  
+
+### Data & ML
+Pandas | NumPy | OpenCV | scikit-learn  
+
+### Tools & Platforms
+Git | GitHub | Jupyter Notebook | Netlify
